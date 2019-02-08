@@ -116,9 +116,11 @@ border-radius: 50%;
 
 .section-header-education{
 border-left:3px solid lightgreen;
+margin-top:20px;
 height:100px;
 font-size: 25px;
 padding-top:20px;
+
 background: url("img/partenon-icon.jpg")
 
 
